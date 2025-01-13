@@ -6,6 +6,6 @@ UI Bank is a web-based application designed to simulate the functionality of mod
 
 The goal of this assignment is to understand the Hybrid Framework and to write test cases for both **UI and API testing**. The tasks include:
 
-Writing a test case to automatically create an account via the UI using **Selenium** and **TestNG**.
+1.Writing a test case to automatically create an account via the UI using **Selenium** and **TestNG**.
 
-Writing a test case to validate the created account through **REST API** using the **Rest-Assured** library.
+2.Writing a test case to validate the created account through **REST API** using the **Rest-Assured** library.

@@ -1,8 +1,8 @@
-About Application : 
+**About the Application:**
+UI Bank is a web-based application designed to simulate the functionality of modern banking software. It offers features such as account management, fund transfers, transaction history, loan applications, and other financial services. The application is developed to mimic real-world banking operations, making it valuable for learning, testing, and demonstration purposes.
 
-UI Bank is a web-based application designed to simulate the functionality of modern banking software. It provides users with features such as account management, fund transfers, transaction history, loan applications, and other financial services. This application is developed to showcase or mimic real-world banking operations, making it useful for learning, testing, or demonstration purposes.
+**Objective of the Assignment:**
+The goal of this assignment is to understand the Hybrid Framework and to write test cases for both **UI and API testing**. The tasks include:
 
-The objective of this assignment is to understand the Hybrid framework and write testcases for both UI and API testing.
-
-1. Testcase is written to create an account from the UI automatically using Selenium.
-2. Whereby, a testcase is written to validate the created account through REST API using Rest-Assured Library.
+Writing a test case to automatically create an account via the UI using **Selenium** and **TestNG**.
+Writing a test case to validate the created account through **REST API** using the **Rest-Assured** library.
